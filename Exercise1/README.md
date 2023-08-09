@@ -3,6 +3,8 @@ Exercise 1
 
 ## 2nd Highest Amount of Orders
 
+Select the second highest amount of orders.
+
 ### Database:
 
 <p align="center">
